@@ -1,0 +1,5 @@
+Dataset yang diuji :
+1. Sepal Length dan Width pada dataset Iris
+2. Petal Length dan Width pada dataset Iris
+3. alcohol dan malic acid pada dataset Wine
+4. total_phenols dan flavanoids pada dataset Wine
